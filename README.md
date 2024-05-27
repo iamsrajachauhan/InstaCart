@@ -4,7 +4,7 @@ Acting as an analyst for Instacart, I'm diving into their sales data to uncover 
 # Instacart Data Analysis Project
 
 ## Objective
-In this project, I take on the role of an analyst for Instacart to explore sales patterns and customer behaviors. The goal is to unearth insights that will inform better customer segmentation and targeted marketing strategies.
+In this project, I take on the role of an analyst for Instacart to explore sales patterns and customer behaviours. The goal is to unearth insights that will inform better customer segmentation and targeted marketing strategies.
 
 ## Context
 Instacart, an established online grocery platform, seeks to refine its marketing efforts. They believe that a one-size-fits-all approach isn't optimal. My analysis aims to segment customers effectively and propose targeted strategies to enhance product sales.
@@ -14,12 +14,13 @@ Instacart, an established online grocery platform, seeks to refine its marketing
 - When do customers tend to spend the most?
 - How can product price ranges improve marketing strategies?
 - Which product departments are most popular?
-- How do customer demographics and behaviors vary in terms of brand loyalty, regional differences, and purchasing patterns?
+- How do customer demographics and behaviours vary in terms of brand loyalty, regional differences, and purchasing patterns?
 
 ## Data Source
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
 
 - [Instacart Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017)
+
 
 
 ## Stakeholders
@@ -31,7 +32,7 @@ The insights derived from this analysis will cater to:
 The goal is to align marketing strategies with customer preferences and uncover growth opportunities within Instacart's offerings.
 
 ## Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471685/Instacart_Final.Report_Isom.Winton.xlsx) as well as the [Instacart Basket Analysis 2-2024 zip](https://github.com/isom17/InstaCartAnalysis/files/14481561/Instacart.Basket.Analysis.02-2024.zip)
+For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471685/Instacart_Final.Report_Isom.Winton.xlsx) as well as the [Instacart Basket Analysis 2-2024 zip](https://github.com/iamsrajachauhan/InstaCart/blob/main/Acheivement%204%20project.zip)
  containing all data sets, graphs, and reports.
 
-This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
+This analysis is not only about uncovering current trends but also about predicting future customer behaviours, thereby enabling Instacart to stay ahead in a competitive market.
